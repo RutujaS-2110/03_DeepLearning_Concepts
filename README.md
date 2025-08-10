@@ -27,7 +27,8 @@ Jan 2025 – Feb 2025
 ---
 
 ### 📜 Certificate
-![Rutuja Saharkar_Completion (1) (1)_page-0001](https://github.com/user-attachments/assets/108590db-227a-411e-99ea-0b5ab642e985)
+![Rutuja Saharkar_Completion (1) (1)_page-0001](https://github.com/user-attachments/assets/12998996-ef05-41c9-92eb-af120a1f4e5e)
+
 
 
 

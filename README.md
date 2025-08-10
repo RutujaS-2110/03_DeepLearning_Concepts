@@ -1,5 +1,5 @@
 
-# 🤖 Deep Learning – Skills4Future Training Program (Edunet Foundation)
+# Deep Learning – Concepts
 
 This repository contains my learnings and projects from the **Deep Learning** module of the Skills4Future Program by **Edunet Foundation**.  
 Deep Learning uses multi-layered neural networks to learn complex data patterns.

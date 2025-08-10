@@ -1,6 +1,5 @@
-# DeepLearning_Concepts
-DeepLearning Concepts 
-# 🤖 Deep Learning – Skills4Future Internship (Edunet Foundation)
+
+# 🤖 Deep Learning – Skills4Future Training Program (Edunet Foundation)
 
 This repository contains my learnings and projects from the **Deep Learning** module of the Skills4Future Program by **Edunet Foundation**.  
 Deep Learning uses multi-layered neural networks to learn complex data patterns.
@@ -8,7 +7,7 @@ Deep Learning uses multi-layered neural networks to learn complex data patterns.
 ---
 
 ## 📅 Duration
-Jan 2025 – Mar 2025
+Jan 2025 – Feb 2025
 
 ## 📚 Topics Covered
 - Artificial Neural Networks (ANN)

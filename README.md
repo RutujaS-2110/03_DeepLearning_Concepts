@@ -19,13 +19,6 @@ Jan 2025 – Feb 2025
 
 ---
 
-### 📂 Projects
-1. **Handwritten Digit Recognition (MNIST)** – CNN (>98% accuracy)  
-2. **Image Classification** – Custom dataset using CNN  
-3. **Text Sentiment Analysis** – LSTM model
-
----
-
 ### 🛠️ Tools & Technologies
 - Python
 - TensorFlow, Keras, OpenCV, NumPy, Pandas, Matplotlib

@@ -6,9 +6,6 @@ Deep Learning uses multi-layered neural networks to learn complex data patterns.
 
 ---
 
-### Duration
-Jan 2025 – Feb 2025
-
 ### Topics Covered
 - Artificial Neural Networks (ANN)
 - Activation Functions (ReLU, Sigmoid, Softmax)
@@ -23,14 +20,6 @@ Jan 2025 – Feb 2025
 - Python
 - TensorFlow, Keras, OpenCV, NumPy, Pandas, Matplotlib
 - Google Colab / Jupyter Notebook
-
----
-
-### Certificate
-![Rutuja Saharkar_Completion (1) (1)_page-0001](https://github.com/user-attachments/assets/12998996-ef05-41c9-92eb-af120a1f4e5e)
-
-
-
 
 
 ---

@@ -27,7 +27,8 @@ Jan 2025 – Feb 2025
 ---
 
 ### 📜 Certificate
-*(Add Skills4Future certificate image or link here)*
+![Rutuja Saharkar_Completion (1) (1)_page-0001](https://github.com/user-attachments/assets/3f73b874-8193-4a17-bde8-69ec51f51746)
+
 
 ---
 

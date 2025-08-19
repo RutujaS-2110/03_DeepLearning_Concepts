@@ -19,7 +19,7 @@ Deep Learning uses multi-layered neural networks to learn complex data patterns.
 ### Tools & Technologies
 - Python
 - TensorFlow, Keras, OpenCV, NumPy, Pandas, Matplotlib
-- Google Colab / Jupyter Notebook
+- VS Code / Jupyter Notebook
 
 
 ---
